@@ -25,7 +25,8 @@ members
 You can inspect the entity relationship diagram and example data below.
 
 Entity Relationship Diagram
-![image](https://github.com/SanthoshKoramutla/DatawithDanny_week-1-SQL-Challenge/assets/122321575/80c85ca2-fec6-4934-8fe9-ab8d075b178d)
+![image](https://github.com/SanthoshKoramutla/DatawithDanny_week-1-SQL-Challenge/assets/122321575/1434fb23-7a5f-4f3b-84c0-32b455b4b2bb)
+
 
 Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
@@ -107,6 +108,7 @@ B	2021-02-01	ramen	12	Y
 C	2021-01-01	ramen	12	N
 C	2021-01-01	ramen	12	N
 C	2021-01-07	ramen	12	N
+
 Rank All The Things
 Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
 
