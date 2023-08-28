@@ -1,6 +1,7 @@
 # DatawithDanny_week-1-SQL-Challenge
 Case Study #1 - Danny's Diner
 Danny Ma · May 1, 2021
+![image](https://github.com/SanthoshKoramutla/DatawithDanny_week-1-SQL-Challenge/assets/122321575/7f7ef717-6138-4aa0-84dd-770baa2ac68d)
 
 
 
@@ -24,6 +25,7 @@ members
 You can inspect the entity relationship diagram and example data below.
 
 Entity Relationship Diagram
+![image](https://github.com/SanthoshKoramutla/DatawithDanny_week-1-SQL-Challenge/assets/122321575/80c85ca2-fec6-4934-8fe9-ab8d075b178d)
 
 Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
